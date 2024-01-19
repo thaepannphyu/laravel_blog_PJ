@@ -1,0 +1,1 @@
+<button type="submit" {{$attributes->merge(['class'=>"btn col-4 btn-primary"])}} >Submit</button>
